@@ -1,0 +1,51 @@
+html {
+    font-size: 14px;
+    color: #000;
+    font-weight: 500;
+  }
+  
+  body {
+    width: 100%;
+    min-height: 100%;
+    background-color: #fff;
+  }
+
+  .first-section{
+    margin: 22px 15px 12px 12px;
+    padding: 22px 15px 12px 12px ;
+    border: 1px solid brown;
+  }
+
+.first-heading, .second-heading{
+    font-size: 18px;
+}
+
+.first-paragraph {
+    color: green;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.second-section{
+    margin: 22px 15px 12px 12px;
+    padding: 22px 15px 12px 12px ;
+    border: 1px solid brown;
+  }
+
+  .second-paragraph {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.third-paragraph {
+  color: blue;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.third-section{
+  margin: 22px 15px 12px 12px;
+  padding: 22px 15px 12px 12px ;
+  border: 1px solid brown;
+}
