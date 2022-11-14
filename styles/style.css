@@ -1,0 +1,47 @@
+
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+  color: #000;
+  font-weight: 500;
+}
+
+body {
+  width: 100%;
+  min-height: 100%;
+  background-color: #fff;
+}
+
+
+ul {
+    list-style-type: circle;
+  border: 2px solid blue;
+  background-color: rgb(113, 140, 149);
+  width: 25%;
+  font-family: 'Inter', sans-serif;
+}
+
+ol{
+    list-style: none;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+#dislike-child-id {
+    margin: 5px;
+    background-color: lightyellow;
+  }
+
+  .likes-children {
+    padding: 5px 10px;
+    background-color: #EEEEEE;
+    border: 1px solid #DDDDDD;
+    width: 25%;
+  }
