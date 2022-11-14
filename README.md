@@ -1,5 +1,5 @@
 # CSS-module-assignment
-This is a pratise on stutern on css
+This is a pratise on stutern on css major properties
 
 ![screenshot](./src/images/screenshot.png)
 
@@ -31,7 +31,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Author
 
-👤 **Victor Okoroji**
+👤 **Faith Usor**
 
 - GitHub: [@githubhandle](https://github.com/vickymarz)
 - Twitter: [@twitterhandle](https://twitter.com/Vicky_marz)
